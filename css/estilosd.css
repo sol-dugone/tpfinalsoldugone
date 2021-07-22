@@ -1,0 +1,344 @@
+@import url ('https://fonts.googleapis.com/css2? family = Raleway & display = swap');
+
+*{	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #f6bacb;
+	
+}
+
+.fondointernas
+{ 
+	background-color: #c198ae;
+}
+#main{ 	
+		width: 90%;
+		max-width: 1180px;
+		height: 720px;
+		background-color: #c44569;
+		margin-left: auto;
+		margin-right: auto;
+	} 
+
+header { 
+	width:60%;
+	height:130px;
+	float: left;
+	background-color:#f191ad;
+	
+}
+.logo{
+	padding-left: 20px;
+	padding-top: 30px;
+	display: inline-block;	
+	margin-left: auto;
+	float: left;
+	
+} 
+
+nav {
+	width:40%;
+	 height:130px;
+	 float: right;
+	 background-color:#f191ad;
+	}
+
+nav li {
+		display: inline-block;	
+		list-style: none;
+		margin-left: 16px;
+		padding-top:40px;
+		padding-left: 40px;
+
+	}
+
+    nav a {
+	    color: white;
+	    font-family: 'Raleway', sans-serif;
+	 	font-size: 18px;
+		text-decoration: none;
+		padding-top: 8px;
+		padding-bottom: 8px;
+		padding-right: 7px;
+		padding-left: 7px;
+	}
+
+section{
+	background-size: cover;
+		width:auto;
+		height:530px;
+	    clear: both;
+	    background-color:#c198ae;
+}
+
+#intro{
+	width: 20%;
+	height: 200px;
+ 	float: right;
+	font-family: 'Raleway', sans-serif;
+ 	padding-right:20px;
+ 	color: #ffffff;
+
+ 	}
+
+#quinto{
+	width: 50%;
+	height: 100px;
+	float: right;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-size: 40px;
+	font-weight:normal;
+	align-content: center;
+	margin-left: 30px;
+	padding-top: 5px;
+
+}
+
+.fotomicro
+{
+	width: 45%;
+	padding-left: 200%;
+	padding: 50px; 
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+
+}
+
+.pdf{
+	width: 400%;
+	height: 180%;
+	float: right;
+	border-radius: 8px;
+	border-color: #ffffff;
+	margin-left: 100px;
+	margin-right: 200px;
+	align-content: center;
+	
+}
+
+.textorelevamiento{
+	width: 100%;
+	height: 20%;
+	float: left;
+	margin-left: 30px;
+	margin-right: 400px;
+	padding: 20px; 
+	padding-top: 5px;
+	padding-right: 30px;
+	font-size: 17px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+}
+
+
+.t{
+	width: 10%;
+	height: 20%;
+	float: right;
+	margin-left: 100px;
+	margin-right: 300px;
+	padding: 10px; 
+	padding-top: 5px;
+	padding-right: 30px;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+}
+}
+
+.bienvenidos{
+	margin-left: 150px;
+	margin-right: 300px;
+	padding: 50px; 
+	padding-top: 30px;
+	padding-right: 200px;
+	font-size: 28px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+	float: right;
+}
+
+
+.titulointernas{
+	width: 400%;
+	height: 50%;
+	margin-left: 50px;
+	margin-right: 200px;
+	float: right;
+	padding: 20px; 
+	padding-top: 20px;
+	padding-right: 190px;
+	font-size: 40px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+	
+	
+}
+.textointernas {	
+	width: 90%;
+	height: 50%;
+	float: right;
+	margin-left: 90px;
+	margin-right: 480px;
+	padding: 10px; 
+	padding-top: 10px;
+	padding-right: 30px;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+}
+
+#trivia{
+	width: 9%;
+	height: 200px;
+	float: right;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: 'Raleway', sans-serif;
+	font-weight:normal; 
+	color: #ffffff;
+}
+
+.btn{
+	width: 150px;
+	height: 50px;
+	background-color: #f99aaa;
+	color: #ffffff;
+	border-radius: 8px;
+	font-size: 20px;
+
+}
+
+.alinear{
+	width: 800%;
+	height: 80%;
+	float: left; 
+	margin-left: 50px;
+	padding-top: 40px;
+	padding-right: 30px;
+	
+}
+.alineardos{
+	width: 800%;
+	height: 80%;
+	float: left; 
+	margin-left: 1px;
+	padding-top: 50px;
+	padding-right: 30px;
+	
+}
+
+
+
+.alinearvideo{
+	width: 100%;
+	height: 80%;
+	float: right;
+	margin-left: 90px;
+	margin-right: 850px;
+	padding: 40px; 
+	padding-top: 20px;
+	padding-right: 30px;
+	
+}
+
+.txttrivia{
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	color:#ffffff;
+}
+.cajitas { 
+	width: 80%;
+
+}
+
+#formulario{
+height: 400px;
+width: 300px;
+padding: 20px;
+
+}
+
+.textoarquitectura{
+	width: 100%;
+	height: 20%;
+	float: right;
+	margin-left: 30px;
+	margin-right: 700px;
+	padding: 20px; 
+	padding-top: 5px;
+	padding-right: 30px;
+	font-size: 16px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+}
+
+
+
+.guiafinal{
+	width: 40%;
+	height: 80px;
+	float: right;
+	padding: 15px; 
+	padding-left: 5%;
+	padding-right: 4%;
+	padding-top: 8px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight:normal; 
+	color: #ffffff;
+	align-content: inherit;
+
+}
+
+ footer{width:100%;
+		height:70px;
+		background-color:#f191ad;
+	}
+footer ul li{
+			list-style-type: none;
+			display: inline-block;
+
+		}
+.marca{
+			padding-left: 41px;
+			padding-top: 5px;
+			display: inline-block;	   
+		  }
+
+.nombre{
+			padding-left: 430px;
+		    color: white;
+		    text-decoration: none;
+		    font-size: 13px;
+		    font-family: 'Raleway', sans-serif;
+		    display: inline-block;
+		 }
+
+.redes{
+			padding-top: 18px;
+			padding-right:20px;
+			float: right;
+				
+			}
+.redes li {
+		 	 float: right;
+		 	 padding-left: 10px;
+		 	 display: inline-block;	
+		 
+			}
+
+ 
+
+

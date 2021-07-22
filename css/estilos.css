@@ -1,0 +1,316 @@
+@import url ('https://fonts.googleapis.com/css2? family = Raleway & display = swap');
+
+*{	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #f8a5c2;
+	
+}
+
+.fondo{ 
+
+background-image: url(../img/imagenprincipal.jpeg); 
+
+
+}
+
+.fondointernas
+{ 
+	background-color: #a37da1 
+}
+
+
+#main{ 	
+	width: 90%;
+		max-width: 1180px;
+		height: 720px;
+		background-color: #a37da1;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+header { 
+	width:60%;
+	height:130px;
+	float: left;
+	background-color:#e40f7e;
+	
+}
+.logo{
+	padding-left: 20px;
+	padding-top: 10px;
+	display: inline-block;	
+	margin-left: auto;
+	
+}   
+
+nav {
+	width:40%;
+	 height:130px;
+	 float: right;
+	 background-color:#e40f7e;
+	}
+
+nav li {
+		display: inline-block;	
+		list-style: none;
+		margin-left: 16px;
+		padding-top:40px;
+		padding-left: 40px;
+
+	}
+
+    nav a {
+	    color: white;
+	    font-family: 'Raleway', sans-serif;
+	 	font-size: 15px;
+		text-decoration: none;
+		padding-top: 8px;
+		padding-bottom: 8px;
+		padding-right: 7px;
+		padding-left: 7px;
+	}
+
+section{
+	background-size: cover;
+		width:auto;
+		height:530px;
+	    clear: both;
+	    background-color:#a37da1;
+}
+
+#intro{width: 50%;
+	height: 300px;
+ 	float: left;
+	font-family: 'Raleway', sans-serif;
+ 	padding-right:10px;
+
+ 	}
+ 
+ .subtituloindex{
+ 	margin: 90px;
+ 	padding: 10px;
+ 	width: 500px;
+ 	font-family: 'Raleway', sans-serif;
+   	font-size: 14px;
+ 	color: #e40f7e;
+ 	margin-left: 105%;
+ 	margin-top: 420px;
+ 	padding-left: 190px;
+ }
+
+
+.titulo {
+float: center;	
+margin: 20px;
+	font-family: 'Raleway', sans-serif;
+	font-weight:normal; 	
+   	font-size: 27px;
+   	color: #ffffff;	
+	align-content: center;
+
+}
+
+.tituloformulario{
+float: left;
+	font-family: 'Raleway', sans-serif;
+	font-weight:normal; 	
+   	font-size: 18px;
+   	color: #ffffff;	
+   	padding-left: 5%;
+	padding-right: 5%;
+	
+}
+
+.titulotrailer{
+	float: right;
+	font-family: 'Raleway', sans-serif;
+	font-weight:normal; 	
+   	font-size: 18px;
+   	color: #ffffff;
+   	padding-left: 25%;
+	padding-right: 2%;
+}
+
+
+.alinear {
+	float: left;
+	align-content: center;
+	padding-left: 5%;
+	padding-right: 15%;
+	width: 170px;
+	height: 50px;
+}
+
+.alinearimg{
+float: right;
+padding-right:22%;
+width: 175px;
+height: 50px;
+}
+
+
+.form{
+	margin-top: 35px;
+}
+
+.contenidoform {
+	padding-left: 15%;
+	padding-right: 10%;
+	font-family: 'Arenas movedizas', sans-serif;
+	font-weight:normal; 	
+   	font-size: 12px;
+	float: right;
+}
+
+.tituloform{
+
+	font-family: 'Arenas movedizas', sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight:normal;
+	
+}
+.enviar{
+	width: 190px;
+	height: 60px;
+	background-color: #e40f7e;
+	color: #ffffff;
+	border-radius: 10px;
+	font-size: 18px;
+	align-content: center;
+}
+.caja
+{	width: 30%;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	font-weight:normal
+	padding: 60px; 
+	padding-top: 5px;
+	padding-right: 15px;
+	margin-left: 14px;
+	margin-right: 65px;
+	float: right;
+
+}
+
+.cajapremio{
+width: 120%;
+}
+
+.personajes
+{
+	width: 15%;
+	height: 90px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 13px;
+	color: #ffffff;
+	font-weight:normal
+	padding: 30px; 
+	padding-top: 5px;
+	padding-right: 15px;
+	float: left;
+	align-content: center;
+	margin-left: 14px;
+	margin-right: 45px;
+	
+}
+
+.negritas {
+font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	color: #ffffff;
+
+}
+.textointernas 
+{	
+	width: 50%;
+	height: 5%;
+	float: right;
+	margin-left: 20px;
+	margin-right: 40px;
+	padding: 40px; 
+	padding-top: 5px;
+	padding-right: 15px;
+	font-size: 13px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+	align-content: center;
+	
+}
+
+.cajagrande{
+width:120%;
+height: 60%;
+padding-left: 20%;
+
+	}
+
+	.munequita{
+	width: 70%;
+	height: 50%;
+	padding-left: 30%;
+	padding: 30px; 
+	padding-top: 3px;
+	padding-right: 70px;
+	margin-left: 30px;
+	margin-right: 260px;
+	float: right;
+	}
+
+.btn{
+	width: 150px;
+	height: 50px;
+	background-color: #e40f7e;
+	color: #ffffff;
+	border-radius: 8px;
+	font-size: 20px;
+
+}
+
+
+ footer{width:100%;
+		height:60px;
+		background-color:#e40f7e;
+	}
+footer ul li{
+			list-style-type: none;
+			display: inline-block;
+
+		}
+.marca{
+			padding-left: 41px;
+			padding-top: 25px;
+			display: inline-block;	   
+		  }
+
+.nombre{
+			padding-left: 430px;
+		    color: white;
+		    text-decoration: none;
+		    font-size: 13px;
+		    font-family: 'Raleway', sans-serif;
+		    display: inline-block;
+		 }
+
+.redes{
+			padding-top: 18px;
+			padding-right:18px;
+			float: right;
+				
+			}
+.redes li {
+		 	 float: right;
+		 	 padding-left: 10px;
+		 	 display: inline-block;	
+		 
+			}
+
+ 
+
+
